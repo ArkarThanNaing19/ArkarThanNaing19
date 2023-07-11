@@ -17,25 +17,13 @@
 
 - 💻 &nbsp; PHP & Laravel
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind | JavaScript | ReactJS | VueJs | NodeJs
-
-<!--
-
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind | JavaScript
+  
 - 🛢 &nbsp; MySQL | MongoDB
 
 - 🔧 &nbsp; Git
 
 - 🖥 &nbsp; Illustrator| Photoshop
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-
-<hr>
 
 
 
